@@ -1,0 +1,16 @@
+- name: Diego Monduela
+  bio: |
+    Judo, tech and me.
+  avatar: ./avatars/dennis-brotzky.jpg
+  featured: true
+  social:
+    - name: github
+      url: https://github.com
+    - name: twitter
+      url: https://github.com
+    - name: instagram
+      url: https://github.com
+    - name: dribbble
+      url: https://github.com
+    - name: linkedin
+      url: https://github.com
